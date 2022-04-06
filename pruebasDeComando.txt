@@ -1,2 +1,8 @@
 Este nuevo archivo contiene la idea de realizar las pruebas
 de los comandos para saber que lo que anotamos lo aprendimos
+
+En este punto agregamos un nuevo parrafo para hacer un nuevo
+commit
+
+Me faltó agregar un parrafo, por ese motivo, vuelvo sobre esto antes
+de hacer un status
