@@ -1,0 +1,2 @@
+Este nuevo archivo contiene la idea de realizar las pruebas
+de los comandos para saber que lo que anotamos lo aprendimos
